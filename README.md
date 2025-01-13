@@ -1,1 +1,1 @@
-# terraform-learnings
+# Terraform learnings
