@@ -1,4 +1,6 @@
 # Local .terraform directories
 **/.terraform/*
 
+# Nested folders
 terraform-tutorial1/.terraform/*
+terraform-variables1/.terraform/*
