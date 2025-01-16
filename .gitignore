@@ -4,3 +4,4 @@
 # Nested folders
 terraform-tutorial1/.terraform/*
 terraform-variables1/.terraform/*
+terraform-variables2/.terraform/*
